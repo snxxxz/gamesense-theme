@@ -1,14 +1,27 @@
-# Gamesense Theme
+# Gamesense Theme for VS Code
 
+This guide will walk you through how to add the **Gamesense Theme** to your Visual Studio Code setup. Follow these steps to get started:
 
-to add the theme is you need to go to C:\Users\ ( your local user) \ .vscode\extensions
+### Step 1: Locate Your VS Code Extensions Folder
 
+1. Open File Explorer and navigate to the following directory:
 
-then make a folder called gamesense-theme
+   C:\Users\<your_local_user>\.vscode\extensions
 
+   Replace <your_local_user> with your Windows username.
 
-after add the .json files into it
-![92486451655 (1)](https://github.com/user-attachments/assets/8ffe8364-c422-4838-a43d-57a24ebbdf49)
+### Step 2: Create a Folder for the Theme
 
+2. Inside the `extensions` folder, create a new folder named **gamesense-theme**.
 
-### DONT WORRY UPDATES WILL HAPPEN!
+### Step 3: Add Theme Files
+
+3. Download and add the necessary `.json` theme files to the **gamesense-theme** folder you just created.
+
+### Step 4: Enjoy the Gamesense Theme!
+
+Once you've added the files, restart Visual Studio Code, and the **Gamesense Theme** should be available for use.
+
+### **Important Notes:**
+- **Updates Will Be Released!** Don’t worry, future updates will be made available, so be sure to check for them regularly to get the latest improvements.
+- If you encounter any issues, feel free to check for updates or reapply the theme.
