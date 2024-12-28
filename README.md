@@ -31,4 +31,4 @@ Once you've added the files, restart Visual Studio Code, and the **Gamesense The
 - If you encounter any issues, feel free to check for updates or reapply the theme.
 
 ### Special Thanks:
-Thanks to nobody but **Nessie**, because he glazes skeet. ☠🙏
+Thanks to **Nessie**, because he glazes skeet. ☠🙏
