@@ -22,6 +22,10 @@ This guide will walk you through how to add the **Gamesense Theme** to your Visu
 
 Once you've added the files, restart Visual Studio Code, and the **Gamesense Theme** should be available for use.
 
+### Screenshot of the Theme:
+
+![92486451655 (1)](https://github.com/user-attachments/assets/8ffe8364-c422-4838-a43d-57a24ebbdf49)
+
 ### **Important Notes:**
 - **Updates Will Be Released!** Don’t worry, future updates will be made available, so be sure to check for them regularly to get the latest improvements.
 - If you encounter any issues, feel free to check for updates or reapply the theme.
