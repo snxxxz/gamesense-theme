@@ -6,7 +6,7 @@ This guide will walk you through how to add the **Gamesense Theme** to your Visu
 
 1. Open File Explorer and navigate to the following directory:
 
-   C:\Users\ <your_local_user>\ .vscode\extensions
+   C:\Users\<your_local_user>\.vscode\extensions
 
    Replace <your_local_user> with your Windows username.
 
@@ -29,3 +29,6 @@ Once you've added the files, restart Visual Studio Code, and the **Gamesense The
 ### **Important Notes:**
 - **Updates Will Be Released!** Don’t worry, future updates will be made available, so be sure to check for them regularly to get the latest improvements.
 - If you encounter any issues, feel free to check for updates or reapply the theme.
+
+### Special Thanks:
+Thanks to nobody but **Nessie**, because he glazes skeet. ☠🙏
