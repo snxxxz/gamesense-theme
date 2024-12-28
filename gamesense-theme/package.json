@@ -1,0 +1,25 @@
+{
+	"name": "gamesense-theme",
+	"displayName": "Gamesense Theme",
+	"description": "A theme inspired by the Gamesense aesthetic.",
+	"version": "1.0.0",
+	"publisher": "snxxz",
+	"engines": {
+		"vscode": "^1.50.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "Gamesense",
+				"uiTheme": "vs-dark",
+				"path": "./gamesense-theme.json"
+			}
+		]
+	},
+	"__metadata": {
+		"size": 7232
+	}
+}

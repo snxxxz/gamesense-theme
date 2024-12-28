@@ -1,0 +1,120 @@
+{
+    "name": "Gamesense Minimal",
+    "type": "light",
+    "colors": {
+        "editor.background": "#151514",
+        "editor.foreground": "#95b806",
+        "editor.selectionBackground": "#95b80633",
+        "editor.lineHighlightBackground": "#95b80620",
+        "editorCursor.foreground": "#95b806",
+        "editorWhitespace.foreground": "#cfcfcf",
+        "editorIndentGuide.activeBackground": "#95b806",
+        "editorIndentGuide.background": "#d6d6d6",
+        "editorLineNumber.foreground": "#cfcfcf",
+        "editorLineNumber.activeForeground": "#95b806",
+        "tab.activeBackground": "#151514",
+        "tab.inactiveBackground": "#f5f5f5",
+        "tab.activeForeground": "#95b806",
+        "tab.inactiveForeground": "#95b80699",
+        "tab.border": "#95b806",
+        "activityBar.background": "#151514",
+        "activityBar.foreground": "#95b806",
+        "activityBarBadge.background": "#95b806",
+        "activityBarBadge.foreground": "#a0a0a0",
+        "activityBar.activeBorder": "#95b806",
+        "sideBar.background": "#151514",
+        "sideBar.foreground": "#95b806",
+        "sideBarTitle.foreground": "#95b806",
+        "sideBarSectionHeader.background": "#f5f5f5",
+        "sideBarSectionHeader.foreground": "#95b806",
+        "statusBar.background": "#151514",
+        "statusBar.foreground": "#95b806",
+        "statusBar.debuggingBackground": "#95b806",
+        "statusBar.debuggingForeground": "#a0a0a0",
+        "panel.background": "#f5f5f5",
+        "panel.border": "#95b806",
+        "panelTitle.activeForeground": "#95b806",
+        "panelTitle.inactiveForeground": "#95b80699",
+        "scrollbarSlider.background": "#d6d6d6",
+        "scrollbarSlider.hoverBackground": "#95b80699",
+        "scrollbarSlider.activeBackground": "#95b806cc",
+        "button.background": "#95b806",
+        "button.foreground": "#a0a0a0",
+        "button.hoverBackground": "#95b806cc",
+        "dropdown.background": "#f5f5f5",
+        "dropdown.foreground": "#95b806",
+        "list.activeSelectionBackground": "#95b80633",
+        "list.hoverBackground": "#eaeaea",
+        "list.highlightForeground": "#95b806",
+        "tooltip.background": "#f5f5f5",
+        "tooltip.foreground": "#95b806",
+        "tooltip.border": "#95b806",
+        "editorError.foreground": "#ff3333",
+        "editorWarning.foreground": "#ffcc00",
+        "editorInfo.foreground": "#95b806",
+        "input.background": "#151514",
+        "input.foreground": "#95b806",
+        "input.placeholderForeground": "#95b80699",
+        "input.border": "#95b806",
+        "titleBar.activeBackground": "#151514",
+        "titleBar.activeForeground": "#95b806",
+        "titleBar.inactiveBackground": "#f5f5f5",
+        "titleBar.inactiveForeground": "#95b80699",
+        "terminal.background": "#151514",
+        "terminal.foreground": "#95b806",
+        "terminalCursor.foreground": "#95b806",
+        "terminal.ansiBlack": "#101010",
+        "terminal.ansiWhite": "#a0a0a0",
+        "terminal.ansiGreen": "#95b806",
+        "notification.background": "#f5f5f5",
+        "notification.foreground": "#95b806",
+        "notification.buttonBackground": "#95b806",
+        "notification.buttonForeground": "#a0a0a0",
+        "notification.errorBackground": "#ff3333",
+        "notification.errorForeground": "#a0a0a0"
+    },
+    "tokenColors": [
+        {
+            "scope": ["comment"],
+            "settings": {
+                "foreground": "#a0a0a0",
+                "fontStyle": "italic"
+            }
+        },
+        {
+            "scope": ["string"],
+            "settings": {
+                "foreground": "#95b806",
+                "fontStyle": "bold"
+            }
+        },
+        {
+            "scope": ["keyword", "storage"],
+            "settings": {
+                "foreground": "#95b806",
+                "fontStyle": "bold"
+            }
+        },
+        {
+            "scope": ["function", "method"],
+            "settings": {
+                "foreground": "#a0a0a0",
+                "fontStyle": "bold"
+            }
+        },
+        {
+            "scope": ["variable", "parameter"],
+            "settings": {
+                "foreground": "#95b806",
+                "fontStyle": "italic"
+            }
+        },
+        {
+            "scope": ["number", "constant"],
+            "settings": {
+                "foreground": "#a0a0a0",
+                "fontStyle": "bold"
+            }
+        }
+    ]
+}
